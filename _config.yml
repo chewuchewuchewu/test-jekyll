@@ -60,6 +60,6 @@ permalink: /:path/
 defaults:
   - scope:
       path: "src"
-      type: readme
+      type: src
     values:
       layout: default

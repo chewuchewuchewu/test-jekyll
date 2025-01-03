@@ -1,7 +1,7 @@
 ---
 layout: default
 toc: true
-type: readme
+type: src
 ---
 
 ### 字节 ByteDance data-analyst or leader
