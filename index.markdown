@@ -2,7 +2,6 @@
 layout: default
 toc: true
 type: src
-permalink: /
 ---
 
 希望以此结果，能大家在各个大厂内尽快筛选到尽可能匹配的岗位。
