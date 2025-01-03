@@ -12,7 +12,7 @@ type: src
 
 #### 字节
 * 已上传，不定期更新 * [官网入口](https://jobs.bytedance.com/experienced/position)
-* [byteDance-data-analyst.md](./_src/byteDance-data-analyst.md)
+* [byteDance-data-analyst.md]({% link _src/byteDance-data-engineer_part1.md %})
 * [byteDance-data-engineer_part1.md](./_src/byteDance-data-engineer_part1.md)
 * [byteDance-data-engineer_part2.md](./_src/byteDance-data-engineer_part2.md)
 
