@@ -12,62 +12,62 @@ type: src
 
 #### 字节
 * 已上传，不定期更新 * [官网入口](https://jobs.bytedance.com/experienced/position)
-* [byteDance-data-analyst.md](./src/byteDance-data-analyst.md)
-* [byteDance-data-engineer_part1.md](./src/byteDance-data-engineer_part1.md)
-* [byteDance-data-engineer_part2.md](./src/byteDance-data-engineer_part2.md)
+* [byteDance-data-analyst.md](./_src/byteDance-data-analyst.md)
+* [byteDance-data-engineer_part1.md](./_src/byteDance-data-engineer_part1.md)
+* [byteDance-data-engineer_part2.md](./_src/byteDance-data-engineer_part2.md)
 
 #### 腾讯
 * 已上传，不定期更新 * [官网入口](https://careers.tencent.com/zh-cn/search.html)
-* [tencent-data-analyst.md](./src/tencent-data-analyst.md)
-* [tencent-data-engineer.md](./src/tencent-data-engineer.md)
+* [tencent-data-analyst.md](./_src/tencent-data-analyst.md)
+* [tencent-data-engineer.md](./_src/tencent-data-engineer.md)
 
 
 #### 哔哩哔哩
 * 已上传，不定期更新 * [官网入口](https://jobs.bilibili.com/social/positions?location=%E4%B8%8A%E6%B5%B7&type=3)
-* [bilibili-data-analyst.md](./src/bilibili-data-analyst.md)
-* [bilibili-data-engineer.md](./src/bilibili-data-engineer.md)
+* [bilibili-data-analyst.md](./_src/bilibili-data-analyst.md)
+* [bilibili-data-engineer.md](./_src/bilibili-data-engineer.md)
 
 #### 京东
 * 已上传，不定期更新 * [官网入口](https://zhaopin.jd.com/web/job/job_info_list/3)
-* [jd-data-analyst.md](./src/jd-data-analyst.md)
-* [jd-data-engineer.md](./src/jd-data-engineer.md)
+* [jd-data-analyst.md](./_src/jd-data-analyst.md)
+* [jd-data-engineer.md](./_src/jd-data-engineer.md)
 
 
 #### 顺丰
 * 已上传，不定期更新 * [官网入口](https://hr.sf-express.com/jobMainHandler/main/9999)
-* [sf_Express-data-analyst.md](./src/sf_Express-data-analyst.md)
-* [sf_Express-data-engineer.md](./src/sf_Express-data-engineer.md)
+* [sf_Express-data-analyst.md](./_src/sf_Express-data-analyst.md)
+* [sf_Express-data-engineer.md](./_src/sf_Express-data-engineer.md)
 
 
 #### 蚂蚁
 * 已上传，不定期更新 * [官网入口](https://talent.antgroup.com/off-campus)
-* [antGroup-data-analyst.md](./src/antGroup-data-analyst.md)
-* [antGroup-data-engineer.md](./src/antGroup-data-engineer.md)
+* [antGroup-data-analyst.md](./_src/antGroup-data-analyst.md)
+* [antGroup-data-engineer.md](./_src/antGroup-data-engineer.md)
 
 
 #### 携程
 * 已上传，不定期更新 * [官网入口](https://job.ctrip.com/index.html#/jobList)
-* [ctrip-data-analyst.md](./src/ctrip-data-analyst.md)
-* [ctrip-data-engineer.md](./src/ctrip-data-engineer.md)
+* [ctrip-data-analyst.md](./_src/ctrip-data-analyst.md)
+* [ctrip-data-engineer.md](./_src/ctrip-data-engineer.md)
 
 #### 希尔顿
 * 已上传，不定期更新
-* [Hilton.md](./src/Hilton.md)
+* [Hilton.md](./_src/Hilton.md)
 
 
 #### 叠纸游戏
 * 已上传，不定期更新
-* [叠纸游戏.md](./src/叠纸游戏.md)
+* [叠纸游戏.md](./_src/叠纸游戏.md)
 
 
 #### 盒马
 * 已上传，不定期更新
-* [盒马Freshippo.md](./src/盒马Freshippo.md)
+* [盒马Freshippo.md](./_src/盒马Freshippo.md)
 
 
 #### 更多公司
 * 已上传，不定期更新
-* [more-data-related-jobs.md](./src/more-data-related-jobs.md)
+* [more-data-related-jobs.md](./_src/more-data-related-jobs.md)
 
 #### 进度条
 |厂名|进度|入口|
@@ -93,14 +93,14 @@ type: src
 *  对心仪的岗位，不定期重复投递简历，有时能起到意想不到的效果。
 
 #### 伸缩文件列表以更改页面布局
-![to use the catalog](./src/Navigator.jpeg)
+![to use the catalog](./_src/Navigator.jpeg)
 
 #### 点击边栏的职位信息跳转，在Web端打开能看到完整页面
 ```
 以地区和相关匹配度依次排序
 点击职位描述页面以获取完整信息
 ```
-![to enlarge the page](./src/catalogLayout.jpeg)
+![to enlarge the page](./_src/catalogLayout.jpeg)
 
 
 #### 处理思路
